@@ -26,7 +26,7 @@ Jun Xuan Yew, Ningyi Liao, <u>Dingheng Mo</u>, Siqiang Luo
 ICDE 2023 ([Demo Paper](https://ieeexplore.ieee.org/document/10184622))
 
 * **SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization**  
-Ningyi Liao*, <u>Dingheng Mo*</u>, Siqiang Luo, Xiang Li, Pengcheng Yin (*equal contribution)  
+Ningyi Liao\*, <u>Dingheng Mo\*</u>, Siqiang Luo, Xiang Li, Pengcheng Yin (*equal contribution)  
 PVLDB 2022 ([Paper](https://arxiv.org/pdf/2207.09179.pdf))
 
 * **VC-Tune: Tuning and Exploring Distributed Vertex-Centric Graph Systems**  
