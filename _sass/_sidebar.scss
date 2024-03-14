@@ -7,6 +7,7 @@
    ========================================================================== */
 
 .sidebar {
+
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
@@ -47,6 +48,8 @@
   img {
     width: 100%;
   }
+
+  transform: scale(1.15);
 }
 
 .sidebar__right {
@@ -63,6 +66,7 @@
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
+
 }
 
 /*
@@ -71,6 +75,7 @@
 
 .author__avatar {
   display: table-cell;
+  display:none;
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
@@ -78,11 +83,13 @@
 
   @include breakpoint($large) {
     display: block;
+    display:none;
     width: auto;
     height: auto;
   }
 
   img {
+    display:none;
     max-width: 175px;
     border-radius: 50%;
 

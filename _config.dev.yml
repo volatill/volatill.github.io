@@ -11,3 +11,6 @@ comments:
 
 sass:
   style: expanded
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "sunrise"

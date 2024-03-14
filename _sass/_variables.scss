@@ -155,3 +155,35 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+//$body-color                 : #252a34;
+//$background-color           : #252a34;
+//$code-background-color      : mix(#000, $background-color, 15%);
+//$code-background-color-dark : mix(#000, $background-color, 20%);
+//$text-color                 : #eaeaea;
+//$border-color               : mix(#fff, $background-color, 20%);
+//$primary-color              : #8cd2d5;
+//
+//$link-color                 : mix(#000, $info-color, 15%) !default;
+//$link-color-hover           : mix(#000, $link-color, 25%) !default;
+//$link-color-visited         : mix(#fff, $link-color, 15%) !default;
+//$masthead-link-color        : $primary-color !default;
+//$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+//$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+
+
+$body-color                 : #d9e8e0;
+$background-color           : #d9e8e0;
+$code-background-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color-dark: mix(#000, $background-color, 10%) !default;
+$text-color: #3b383c !default;
+$border-color: mix(#000, $background-color, 20%) !default;
+$primary-color: #fc3a52 !default;
+
+$link-color: mix(#000, $primary-color, 10%) !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 25%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
