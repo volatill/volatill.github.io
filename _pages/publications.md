@@ -4,14 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Aster: Enhancing LSM-structures for Scalable Graph Database**  
+<u>Dingheng Mo</u>, Junfeng Liu, Fan Wang, Siqiang Luo  
+SIGMOD 2025
+
 * **Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads**  
 <u>Dingheng Mo</u>, Fanchao Chen, Siqiang Luo, Caihua Shan  
 SIGMOD 2024 ([Paper](https://arxiv.org/pdf/2308.07013.pdf))
 
 * **Structural Designs Meet Optimality: Exploring Optimized LSM-tree Structures in A Colossal Configuration Space**  
 Junfeng Liu\*, Fan Wang\*, <u>Dingheng Mo</u>, Siqiang Luo (*equal contribution)  
-SIGMOD 2024 
-
+SIGMOD 2024 ([Paper](https://dl.acm.org/doi/pdf/10.1145/3654978))
 
 * **Personalized PageRanks over Dynamic Graphs -- The Case for Optimizing Quality of Service**  
 Zulun Zhu, Siqiang Luo, Wenqing Lin, Sibo Wang, <u>Dingheng Mo</u>, Chunbo Li  
