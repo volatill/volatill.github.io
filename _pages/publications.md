@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * **How to Grow an LSM-tree? Towards Bridging The Gap Between Theory and Practice**  
-<u>Dingheng Mo</u>, Siqiang Luo, Stratos Idreos
+<u>Dingheng Mo</u>, Siqiang Luo, Stratos Idreos  
 SIGMOD 2025
 
 * **Aster: Enhancing LSM-structures for Scalable Graph Database**  
