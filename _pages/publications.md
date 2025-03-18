@@ -4,9 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **How to Grow an LSM-tree? Towards Bridging The Gap Between Theory and Practice**  
+<u>Dingheng Mo</u>, Siqiang Luo, Stratos Idreos
+SIGMOD 2025
+
 * **Aster: Enhancing LSM-structures for Scalable Graph Database**  
 <u>Dingheng Mo</u>, Junfeng Liu, Fan Wang, Siqiang Luo  
-SIGMOD 2025
+SIGMOD 2025 ([Paper](https://dl.acm.org/doi/pdf/10.1145/3709662))
 
 * **Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads**  
 <u>Dingheng Mo</u>, Fanchao Chen, Siqiang Luo, Caihua Shan  
