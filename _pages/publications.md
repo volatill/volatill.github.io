@@ -22,7 +22,7 @@ SIGMOD 2024 ([Paper](https://dl.acm.org/doi/pdf/10.1145/3654978))
 
 * **LSM-VEC: A Large-Scale Disk-Based System for Dynamic Vector Search**
 Shurui Zhong, Dingheng Mo, Siqiang Luo  
-Arxiv ([Paper](https://arxiv.org/pdf/2505.17152), [Code](https://github.com/NTU-Siqiang-Group/LSM-Vec))
+Arxiv ([Paper](https://arxiv.org/pdf/2505.17152), [Code](https://github.com/NTU-Siqiang-Group/LSM-Vec), [Doc](https://volatill.github.io/lsm-vec-site/))
 
 * **Personalized PageRanks over Dynamic Graphs -- The Case for Optimizing Quality of Service**  
 Zulun Zhu, Siqiang Luo, Wenqing Lin, Sibo Wang, <u>Dingheng Mo</u>, Chunbo Li  
