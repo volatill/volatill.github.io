@@ -6,7 +6,7 @@ author_profile: true
 ---
 * **How to Grow an LSM-tree? Towards Bridging The Gap Between Theory and Practice**  
 <u>Dingheng Mo</u>, Siqiang Luo, Stratos Idreos  
-SIGMOD 2025
+SIGMOD 2025 ([Paper](https://dl.acm.org/doi/pdf/10.1145/3725310))
 
 * **Aster: Enhancing LSM-structures for Scalable Graph Database**  
 <u>Dingheng Mo</u>, Junfeng Liu, Fan Wang, Siqiang Luo  
@@ -19,6 +19,10 @@ SIGMOD 2024 ([Paper](https://arxiv.org/pdf/2308.07013.pdf))
 * **Structural Designs Meet Optimality: Exploring Optimized LSM-tree Structures in A Colossal Configuration Space**  
 Junfeng Liu\*, Fan Wang\*, <u>Dingheng Mo</u>, Siqiang Luo (*equal contribution)  
 SIGMOD 2024 ([Paper](https://dl.acm.org/doi/pdf/10.1145/3654978))
+
+* **LSM-VEC: A Large-Scale Disk-Based System for Dynamic Vector Search**
+Shurui Zhong, Dingheng Mo, Siqiang Luo
+Arxiv ([Paper](https://arxiv.org/pdf/2505.17152), [Code](https://github.com/NTU-Siqiang-Group/LSM-Vec))
 
 * **Personalized PageRanks over Dynamic Graphs -- The Case for Optimizing Quality of Service**  
 Zulun Zhu, Siqiang Luo, Wenqing Lin, Sibo Wang, <u>Dingheng Mo</u>, Chunbo Li  
